@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	color: #7D6EDB;
+	font-style: normal;
+	font-family: alex-brush;
+	font-size: 70px;
+	font-weight: 400;
+	text-align: center;
+	text-rendering: geometricPrecision;
+	text-decoration-style: dotted;
+	text-decoration-color: aliceblue;
+}
+
+
+ts {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: goldenrod;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: overline;
+	
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #3B3B3B;
+}
+
+p {
+	text-align: right;
+	color: #0D6500;
+	font-size: 20px;
+}
+
+po {
+	align-content: center;
+}
